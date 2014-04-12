@@ -2,6 +2,8 @@
 
 Destroy association if specified attribute is blank.
 
+[![Build Status](https://travis-ci.org/h-izumi/destroy_associates.svg?branch=master)](https://travis-ci.org/h-izumi/destroy_associates)
+
 ## Installation
 
 Add this line to your application's Gemfile:
