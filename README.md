@@ -2,7 +2,7 @@
 
 Destroy association if specified attribute is blank.
 
-[![Build Status](https://travis-ci.org/h-izumi/destroy_associates.svg?branch=master)](https://travis-ci.org/h-izumi/destroy_associates)
+[![Build Status](https://app.travis-ci.com/h-izumi/destroy_associates-ci.svg?branch=master)](https://app.travis-ci.com/github/h-izumi/destroy_associates-ci)
 
 ## Installation
 
